@@ -19,7 +19,7 @@ This cheat sheet is based on the article **The Helm Cheatsheet: Maximizing Kuber
 - [Chart Development](#chart-development)
 - [OCI Registries](#oci-registries)
 - [Plugins](#plugins)
-- [Helm Challenge](#timbernetes-challenge)
+- [Helm Challenge](#helm-challenge)
 
 ## Core Concepts
 
@@ -204,7 +204,7 @@ helm plugin install https://github.com/databus23/helm-diff
 helm diff upgrade my-release bitnami/wordpress
 ```
 
-## Timbernetes Challenge
+## Helm Challenge
 
 **Are you ready to steer the ship?**
 
