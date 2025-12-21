@@ -1,4 +1,4 @@
-# The Helm Cheatsheet: Maximizing Kubernetes Deployments
+# Devoriales - Helm Cheatsheet
 
 Helm is the package manager for Kubernetes. This guide serves as a comprehensive reference for managing charts, releases, and repositories, from day-to-day operations to advanced chart development.
 
