@@ -15,7 +15,7 @@ We've created this Kubectl Cheatsheet as a quick reference guide for you. It con
 - [Creating and Updating Resources](#creating-and-updating-resources)
 - [Deleting Resources](#deleting-resources)
 - [Run Command](#run-command)
-- [Scaling Deployments](#scaling-deployments)scaling-deployments
+- [Scaling Deployments](#scaling-deployments)
 - [Exposing Deployments](#exposing-deployments)
 - [Managing Rollouts](#managing-rollouts)
 - [Horizontal Pod Autoscaling Commands](#horizontal-pod-autoscaling-commands)
