@@ -19,7 +19,7 @@ This cheat sheet is based on the article **The Helm Cheatsheet: Maximizing Kuber
 - [Chart Development](#chart-development)
 - [OCI Registries](#oci-registries)
 - [Plugins](#plugins)
-- [Timbernetes Challenge](#timbernetes-challenge)
+- [Helm Challenge](#timbernetes-challenge)
 
 ## Core Concepts
 
