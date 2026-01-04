@@ -64,47 +64,6 @@ Comprehensive Vim editor reference for improved text editing productivity.
 
 ---
 
-## 🚀 Quick Start
-
-Each cheatsheet is built with [Docsify](https://docsify.js.org/) for easy navigation and search functionality.
-
-### Viewing Locally
-
-1. Install docsify-cli:
-```bash
-npm i docsify-cli -g
-```
-
-2. Serve any cheatsheet:
-```bash
-# Kubectl cheatsheet
-docsify serve kubectl-cheatsheet
-
-# Helm cheatsheet
-docsify serve helm-cheatsheet
-
-# Docker cheatsheet
-docsify serve docker-cheatsheet
-
-# Vim cheatsheet
-docsify serve vim-cheatsheet
-```
-
-3. Open your browser at `http://localhost:3000`
-
-## 🌐 Online Access
-
-Visit the live documentation at [Devoriales](https://devoriales.com)
-
-## 🤝 Contributing
-
-Contributions are welcome! If you find errors or want to add more commands:
-
-1. Fork this repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
 ## 📝 License
 
 This project is open source and available for educational purposes.
