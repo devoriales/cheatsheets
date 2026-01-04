@@ -64,6 +64,25 @@ Comprehensive Vim editor reference for improved text editing productivity.
 
 ---
 
+### [Taskmaster AI Cheatsheet](./taskmaster-cheatsheet/)
+
+Complete guide for Taskmaster AI - an AI-powered task management system for breaking down projects and building with AI assistants.
+
+**Topics covered:**
+
+- Installation and setup
+- Creating PRDs (Product Requirements Documents)
+- Parsing PRDs into tasks
+- Working with tasks and subtasks
+- Claude Code integration
+- Task status management
+- Model configuration
+- Best practices
+
+[View Taskmaster AI Cheatsheet →](./taskmaster-cheatsheet/)
+
+---
+
 ## 📝 License
 
 This project is open source and available for educational purposes.
