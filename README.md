@@ -64,6 +64,23 @@ Comprehensive Vim editor reference for improved text editing productivity.
 
 ---
 
+### [Gateway API & Traefik Cheatsheet](./gateway-api-traefik-cheatsheet/)
+
+Quick reference guide for Kubernetes Gateway API with Traefik Controller, featuring a complete bookstore application example.
+
+**Topics covered:**
+
+- Path matching strategies (PathPrefix, Exact, RegularExpression)
+- Native Gateway API filters (URLRewrite, RequestRedirect, Header modifiers)
+- Traefik-specific middleware (RateLimit, BasicAuth, ForwardAuth, CircuitBreaker)
+- Complete HTTPRoute examples with real-world scenarios
+- Flask application implementation
+- Troubleshooting and debugging
+
+[View Gateway API & Traefik Cheatsheet →](./gateway-api-traefik-cheatsheet/)
+
+---
+
 ### [Taskmaster AI Cheatsheet](./taskmaster-cheatsheet/)
 
 Complete guide for Taskmaster AI - an AI-powered task management system for breaking down projects and building with AI assistants.
