@@ -32,8 +32,8 @@
     .return-button {
       position: fixed;
       top: 20px;
-      right: 20px;
-      z-index: 1000;
+      left: 320px;
+      z-index: 9999;
       background: #37a0cb;
       color: white;
       padding: 10px 20px;
@@ -51,7 +51,7 @@
   </style>
 </head>
 <body>
-  <a href="../index.html" class="return-button">← Back to All Cheatsheets</a>
+  <a href="../" class="return-button" onclick="window.location.href='../'; return false;">← Back to All Cheatsheets</a>
   <div id="app">Loading...</div>
   <script>
     window.$docsify = {
