@@ -4,7 +4,7 @@ Welcome to the comprehensive collection of cheatsheets for DevOps engineers and 
 
 ## 📚 Available Cheatsheets
 
-### [Kubectl Cheatsheet](./kubectl-cheatsheet/)
+### <a href="./kubectl-cheatsheet/index.html" target="_self">Kubectl Cheatsheet</a>
 A comprehensive kubectl cheatsheet for Kubernetes engineers covering pod management, deployments, services, configuration, troubleshooting, and more.
 
 **Topics covered:**
@@ -15,11 +15,11 @@ A comprehensive kubectl cheatsheet for Kubernetes engineers covering pod managem
 - Troubleshooting and debugging
 - Resource management
 
-[View Kubectl Cheatsheet →](./kubectl-cheatsheet/)
+<a href="./kubectl-cheatsheet/index.html" target="_self">View Kubectl Cheatsheet →</a>
 
 ---
 
-### [Helm Cheatsheet](./helm-cheatsheet/)
+### <a href="./helm-cheatsheet/index.html" target="_self">Helm Cheatsheet</a>
 Complete Helm package manager reference for Kubernetes application deployment and management.
 
 **Topics covered:**
@@ -30,11 +30,11 @@ Complete Helm package manager reference for Kubernetes application deployment an
 - Upgrading and rollbacks
 - Debugging Helm charts
 
-[View Helm Cheatsheet →](./helm-cheatsheet/)
+<a href="./helm-cheatsheet/index.html" target="_self">View Helm Cheatsheet →</a>
 
 ---
 
-### [Docker Cheatsheet](./docker-cheatsheet/)
+### <a href="./docker-cheatsheet/index.html" target="_self">Docker Cheatsheet</a>
 Essential Docker commands and best practices for containerization and deployment.
 
 **Topics covered:**
@@ -45,11 +45,11 @@ Essential Docker commands and best practices for containerization and deployment
 - Registry operations
 - Debugging and troubleshooting
 
-[View Docker Cheatsheet →](./docker-cheatsheet/)
+<a href="./docker-cheatsheet/index.html" target="_self">View Docker Cheatsheet →</a>
 
 ---
 
-### [Vim Cheatsheet](./vim-cheatsheet/)
+### <a href="./vim-cheatsheet/index.html" target="_self">Vim Cheatsheet</a>
 Comprehensive Vim editor reference for improved text editing productivity.
 
 **Topics covered:**
@@ -60,11 +60,11 @@ Comprehensive Vim editor reference for improved text editing productivity.
 - File management
 - Customization and plugins
 
-[View Vim Cheatsheet →](./vim-cheatsheet/)
+<a href="./vim-cheatsheet/index.html" target="_self">View Vim Cheatsheet →</a>
 
 ---
 
-### [Gateway API & Traefik Cheatsheet](./gateway-api-traefik-cheatsheet/)
+### <a href="./gateway-api-traefik-cheatsheet/index.html" target="_self">Gateway API & Traefik Cheatsheet</a>
 
 Quick reference guide for Kubernetes Gateway API with Traefik Controller, featuring a complete bookstore application example.
 
@@ -77,11 +77,11 @@ Quick reference guide for Kubernetes Gateway API with Traefik Controller, featur
 - Flask application implementation
 - Troubleshooting and debugging
 
-[View Gateway API & Traefik Cheatsheet →](./gateway-api-traefik-cheatsheet/)
+<a href="./gateway-api-traefik-cheatsheet/index.html" target="_self">View Gateway API & Traefik Cheatsheet →</a>
 
 ---
 
-### [Taskmaster AI Cheatsheet](./taskmaster-cheatsheet/)
+### <a href="./taskmaster-cheatsheet/index.html" target="_self">Taskmaster AI Cheatsheet</a>
 
 Complete guide for Taskmaster AI - an AI-powered task management system for breaking down projects and building with AI assistants.
 
@@ -96,7 +96,7 @@ Complete guide for Taskmaster AI - an AI-powered task management system for brea
 - Model configuration
 - Best practices
 
-[View Taskmaster AI Cheatsheet →](./taskmaster-cheatsheet/)
+<a href="./taskmaster-cheatsheet/index.html" target="_self">View Taskmaster AI Cheatsheet →</a>
 
 ---
 

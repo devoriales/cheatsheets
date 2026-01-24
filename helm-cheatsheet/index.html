@@ -8,31 +8,58 @@
     <meta name="description" content="A comprehensive Helm cheatsheet for Kubernetes package management">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-    <style>
-        .return-button {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            z-index: 1000;
-            background: #42b983;
-            color: white;
-            padding: 10px 20px;
-            border-radius: 5px;
-            text-decoration: none;
-            font-weight: bold;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-            transition: all 0.3s ease;
-        }
-        .return-button:hover {
-            background: #33a06f;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-            transform: translateY(-2px);
-        }
-    </style>
+<style>
+    :root {
+        --theme-color: #37a0cb;
+        --theme-color-dark: #2e87ad;
+    }
+
+    .markdown-section code {
+        background-color: #f8f8f8;
+        border-radius: 2px;
+        color: #e96900;
+        font-size: .9em;
+        padding: 2px 4px;
+    }
+
+    .markdown-section pre>code {
+        background-color: #f8f8f8;
+        color: #525252;
+    }
+
+    .sidebar-toggle {
+        background-color: transparent;
+    }
+
+    .app-name-link img {
+        max-width: 100%;
+    }
+
+    .return-button {
+        position: fixed;
+        top: 20px;
+        left: 320px;
+        z-index: 9999;
+        background: #37a0cb;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: bold;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+        transition: all 0.3s ease;
+    }
+
+    .return-button:hover {
+        background: #2e87ad;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        transform: translateY(-2px);
+    }
+</style>
 </head>
 
 <body>
-    <a href="../index.html" class="return-button">← Back to All Cheatsheets</a>
+    <a href="../" class="return-button" onclick="window.location.href='../'; return false;">← Back to All Cheatsheets</a>
     <div id="app"></div>
     <script>
         window.$docsify = {
