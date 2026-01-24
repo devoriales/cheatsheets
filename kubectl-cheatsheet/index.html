@@ -8,9 +8,31 @@
     <meta name="description" content="A comprehensive kubectl cheatsheet for Kubernetes engineers">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+    <style>
+        .return-button {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+            background: #42b983;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+            transition: all 0.3s ease;
+        }
+        .return-button:hover {
+            background: #33a06f;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            transform: translateY(-2px);
+        }
+    </style>
 </head>
 
 <body>
+    <a href="../index.html" class="return-button">← Back to All Cheatsheets</a>
     <div id="app"></div>
     <script>
         window.$docsify = {
